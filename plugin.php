@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Page Template Plugin : 'JUNN SYNC TEMPLATE ELEMENTS'
+Plugin Name: Page Template Plugin : 'JUNN STEEMIT WORDPRESS SYNC TEMPLATE'
 Plugin URI: https://junn.in
-Description: Post Templates.
+Description: JUNN Steemit Sync Templates.
 Version: 1.1.0
 Author: JUNN
 Author URI: https://junn.in
